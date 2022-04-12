@@ -7,6 +7,9 @@ Este archivo muestra un formulario que se envia a insertar.php, el cual guardara
 <div class="row">
   <div class="col-12">
     <h1>Agregar</h1>
+    <a href="https://reamtp.github.io/portafolio/" target="_blank">Por Elias Arriaga</a>
+		<p></p>
+    <br/>
     <form action="insertar.php" method="post">
       <div class="form-group">
         <label for="nombre">Nombre</label>
